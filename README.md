@@ -1,2 +1,2 @@
-# gateway
-The gateway which make the link with all the services.
+# Gateway
+The gateway which makes the link with all the services.
